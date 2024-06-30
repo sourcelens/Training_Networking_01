@@ -1,8 +1,9 @@
 
+
 ---
 ---
 
-Referring to the image below from the lesson what is the highlighted part in green square
+1. Referring to the image below from the lesson what is the highlighted part in green square
 
 <img src="images/ComputerAndNic.jpg" width="500"/>
 
@@ -11,10 +12,10 @@ Referring to the image below from the lesson what is the highlighted part in gre
 3.	Ethernet port of NIC
 4.	Ethernet cable
 
-Answer 1.	Computer with NIC
+**Answer** 1.	Computer with NIC
 
-Reason for answer.
-1.	Computer with NIC is what is represented in green.
+**Reason for answer.**
+Computer with NIC is what is represented in green.
 
 
 ---
@@ -32,10 +33,10 @@ Reason for answer.
 4.	Ethernet cable
 
 
-Answer 2 Ethernet port of Router
+**Answer** 2 Ethernet port of Router
 
 
-Reason for answer.
+**Reason for answer.**
 Ethernet port of Router is what is represented in green square.
 
 
@@ -57,10 +58,10 @@ Ethernet port of Router is what is represented in green square.
 4.	Ethernet cable
 
 
-Answer 4 Ethernet cable
+**Answer** 4 Ethernet cable
 
 
-Reason for answer.
+**Reason for answer.**
 Ethernet cable is what is represented in green square.
 
 
@@ -82,10 +83,10 @@ Ethernet cable is what is represented in green square.
 4.	Ethernet cable
 
 
-Answer 1 Router
+**Answer** 1 Router
 
 
-Reason for answer.
+**Reason for answer.**
 Router is what is represented in green square.
 
 
@@ -107,9 +108,9 @@ Router is what is represented in green square.
 4.	Wifi Connection
 
 
-Answer 3 Wifi Connection
+**Answer** 3 Wifi Connection
 
-Reason for answer.
+**Reason for answer.**
 Wifi Connection is what is represented in green square.
 
 
