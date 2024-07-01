@@ -1,10 +1,12 @@
 
 ---
 In the below code what line     
+```
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+```
 does?
 
-    
+```
     # https://realpython.com/python-sockets/
     
     import socket
@@ -25,7 +27,7 @@ does?
         thread_for_client = threading.Thread(target=ThreadfuncForClient, args=(conn, addr))
         thread_for_client.start()
 
-
+```
 
 1. Create a socket
 2. Assign memory to variable s
@@ -36,5 +38,7 @@ Answer: 1 Create a socket.
 
 Reason:
 The line 
+```
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+```
 Creates a socket object.
