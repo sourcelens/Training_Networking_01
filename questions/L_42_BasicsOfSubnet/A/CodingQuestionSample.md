@@ -34,9 +34,9 @@ does?
 3. Bind ipaddress to socket
 4. Connect to client
 
-Answer: 1 Create a socket.
+**Answer:** 1 Create a socket.
 
-Reason:
+**Reason:**
 The line 
 ```
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
