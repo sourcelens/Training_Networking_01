@@ -1,7 +1,7 @@
 
 ---
 In the below code what line     
-    s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 does?
 
     
@@ -36,5 +36,5 @@ Answer: 1 Create a socket.
 
 Reason:
 The line 
-    s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+            s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 Creates a socket object.
