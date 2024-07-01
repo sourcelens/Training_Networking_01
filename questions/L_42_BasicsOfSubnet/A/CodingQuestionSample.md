@@ -42,4 +42,5 @@ The line
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 ```
 Creates a socket object.
+
 ---
